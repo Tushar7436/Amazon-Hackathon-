@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="rwrny3ytHrm-lC7YvDmL">
-    <mxGraphModel dx="1987" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,6 +89,14 @@
             <Array as="points">
               <mxPoint x="1355" y="790" />
               <mxPoint x="1985" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmxmOnCjmpOmvRy98Lv1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-16" target="TmxmOnCjmpOmvRy98Lv1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1355" y="790" />
+              <mxPoint x="1745" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,14 +222,9 @@
         <mxCell id="fNWcDF9btSHy8dPCvcvg-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-79" target="fNWcDF9btSHy8dPCvcvg-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="8ku0Vu8ZHxd5BaApPQD5" name="Real-time updates ">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="TmxmOnCjmpOmvRy98Lv1-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Current Order&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
