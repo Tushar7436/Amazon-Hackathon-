@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="2">
   <diagram name="Page-1" id="rwrny3ytHrm-lC7YvDmL">
-    <mxGraphModel dx="3072" dy="3078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1858" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,14 +36,97 @@
         <mxCell id="6NsfQsbsH2uMWn0xJ8fB-2" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;International data privacy laws &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;like &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;GDPR&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt; (&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;general data protection &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;regulation&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt; and &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;CCPA&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt; (&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;California &lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;consumer privacy act&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(26, 26, 26); font-family: Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;NormalTextRun SCXW246972 BCX0&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;as well as transport Official Docs can be analyzed using tools like-&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Onetrust -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;streamline risk management, enforce compliance, and optimize data while meeting regulatory.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 20px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;https://www.onetrust.com/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;PowerBI - For data visualization which can be used by user for better understanding and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Real-time information.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Using the User business details AI powered chatbot can be implemented to answer the queries from the user .&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1275" width="780" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="tAxAlkHRO4SXwAfs2fLI-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Interface Architecture&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zFugj21VHK07UoW3YZiS-4" value="&lt;h3 style=&quot;font-size: 20px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Socket.IO API&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;strong&gt;Description&lt;/strong&gt;: A popular open-source library that enables real-time, bi-directional communication between clients and servers.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Features&lt;/strong&gt;: Supports real-time messaging, events, and notifications; compatible with many backend frameworks.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="590" width="560" height="210" as="geometry" />
         </mxCell>
         <mxCell id="zFugj21VHK07UoW3YZiS-10" value="&lt;h3 style=&quot;font-size: 20px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Amazon Textract&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Features&lt;/strong&gt;: Extracts printed text, handwriting, tables, and form data. Amazon Textract can recognize and interpret structured data, such as tables, checkboxes, and complex layouts.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="1730" width="640" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-1" target="fNWcDF9btSHy8dPCvcvg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="160" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-5" target="fNWcDF9btSHy8dPCvcvg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Signup / Login&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="355" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-6" target="fNWcDF9btSHy8dPCvcvg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;User details&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="540" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-16" target="fNWcDF9btSHy8dPCvcvg-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1355" y="790" />
+              <mxPoint x="1105" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-16" target="fNWcDF9btSHy8dPCvcvg-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1355" y="790" />
+              <mxPoint x="1285" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-16" target="fNWcDF9btSHy8dPCvcvg-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1355" y="790" />
+              <mxPoint x="1505" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-16" target="fNWcDF9btSHy8dPCvcvg-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1355" y="790" />
+              <mxPoint x="1725" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Dashboard&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="690" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;View Market analysis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Transporters availability&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-22" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;Collect business details, product categories, and target export markets&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Verify business authenticity (e.g., documents like GST, Importer Exporter Code)&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; white-space: normal;&quot;&gt;Segment users by categories such as manufacturer, distributor, or retailer&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="530" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-25" target="fNWcDF9btSHy8dPCvcvg-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-25" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Services&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Past Shipments&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Type of container&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1160" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Mode of transport&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1160" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-36" target="fNWcDF9btSHy8dPCvcvg-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-36" target="fNWcDF9btSHy8dPCvcvg-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Order Transport&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1030" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
