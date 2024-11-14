@@ -121,9 +121,6 @@
         <mxCell id="fNWcDF9btSHy8dPCvcvg-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Past Shipments&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="850" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fNWcDF9btSHy8dPCvcvg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-36" target="fNWcDF9btSHy8dPCvcvg-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fNWcDF9btSHy8dPCvcvg-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-36" target="fNWcDF9btSHy8dPCvcvg-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -181,7 +178,12 @@
         <mxCell id="fNWcDF9btSHy8dPCvcvg-52" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Transporter info&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1100" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fNWcDF9btSHy8dPCvcvg-55" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Document Requirements and Managment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TmxmOnCjmpOmvRy98Lv1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1639.9999999999995" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNWcDF9btSHy8dPCvcvg-55" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Document Requirements checks&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="1215" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fNWcDF9btSHy8dPCvcvg-56" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;File sharing Services&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;(pdf,excel)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -224,6 +226,17 @@
         </mxCell>
         <mxCell id="TmxmOnCjmpOmvRy98Lv1-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Current Order&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TmxmOnCjmpOmvRy98Lv1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fNWcDF9btSHy8dPCvcvg-16" target="fNWcDF9btSHy8dPCvcvg-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="725" />
+              <mxPoint x="1560" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmxmOnCjmpOmvRy98Lv1-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Checks with International and national policies&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1553" y="1400" width="195" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
